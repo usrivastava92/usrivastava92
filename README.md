@@ -22,25 +22,16 @@
 <!-- [![Utkarsh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=usrivastava92&theme=tokyonight)](https://github.com/usrivastava92/github-readme-stats)-->
 <!-- *** -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-📊 **This Week I Spent My Time On**
 
 ```text
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
+TypeScript       5 hrs 28 mins   ██████████████████▒░░░░░░   73.56 %
+SCSS             1 hr 1 min      ███▒░░░░░░░░░░░░░░░░░░░░░   13.70 %
+JSON             26 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.90 %
+Markdown         13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
+HTML             6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
+GitIgnore file   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
 ```
 
-Last Updated on 03/06/2022 18:48:01 UTC
 <!--END_SECTION:waka-->
 ***
 
