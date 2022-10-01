@@ -55,10 +55,6 @@ Other        48 mins         ████████████▒░░░░
   ![DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-333333?style=flat&logo=Amazon%20DynamoDB&logoColor=yellow)
   ![DynamoDB](https://img.shields.io/badge/redis-333333.svg?&style=flat&logo=redis&logoColor=red)
 
-- IDEs: &nbsp;
-  ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-333333?style=flat&logo=intellij-idea&logoColor=white)
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-
 ***
 
 
