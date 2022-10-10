@@ -24,10 +24,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-Java           11 hrs 41 mins  ██████████▒░░░░░░░░░░░░░░   41.65 %
-Terraform      6 hrs 45 mins   ██████░░░░░░░░░░░░░░░░░░░   24.07 %
-JavaScript     4 hrs 6 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.63 %
-Other          2 hrs 1 min     █▓░░░░░░░░░░░░░░░░░░░░░░░   07.23 %
+Java           11 hrs 20 mins  ███████████▓░░░░░░░░░░░░░   46.21 %
+Terraform      6 hrs 45 mins   ███████░░░░░░░░░░░░░░░░░░   27.50 %
+Other          2 hrs 3 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 %
 ```
 
 <!--END_SECTION:waka-->
