@@ -24,9 +24,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-Java           6 hrs 31 mins   ███████████████▒░░░░░░░░░   61.45 %
-Terraform      1 hr 26 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.54 %
-Other          1 hr 22 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.94 %
+Java           5 hrs 40 mins   █████████████▒░░░░░░░░░░░   53.21 %
+Other          1 hr 25 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.30 %
 ```
 
 <!--END_SECTION:waka-->
