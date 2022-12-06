@@ -24,11 +24,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Java             53 mins         ██████████████▓░░░░░░░░░░   58.73 %
-YAML             23 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.99 %
-Bash             7 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 %
-GitIgnore file   3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 %
-Other            3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
