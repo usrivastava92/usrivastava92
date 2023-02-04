@@ -1,7 +1,7 @@
 <!--![](https://github.com/usrivastava92/usrivastava92/blob/master/banner.png)-->
 <p align="center"> <h1 align="center"> Hi, I am Utkarsh Srivastava <img src="./assets/hi.gif" width="28px" alt="waving hand" /> </h1></p>
 <p align="center">
-<a href="https://www.linkedin.com/in/utkarsh-srivastava26/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+<a href="https://www.linkedin.com/in/usrivastava92"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
 <a href="https://leetcode.com/utkarsh2612/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/> </a>
 <a href="https://www.hackerrank.com/utkarsh_26"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/> </a>
 <a href="mailto:usrivastava92@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
