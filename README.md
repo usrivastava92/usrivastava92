@@ -24,8 +24,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-YAML             2 hrs 29 mins   ███████░░░░░░░░░░░░░░░░░░   27.69 %
-Other            1 hr 40 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.63 %
+YAML             1 hr 33 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.19 %
+Other            1 hr 22 mins    █████░░░░░░░░░░░░░░░░░░░░   19.59 %
 ```
 
 <!--END_SECTION:waka-->
