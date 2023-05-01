@@ -24,9 +24,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Kotlin           11 hrs 42 mins  ███████████▒░░░░░░░░░░░░░   45.09 %
-YAML             8 hrs 41 mins   ████████▒░░░░░░░░░░░░░░░░   33.51 %
-Other            1 hr 54 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.33 %
+Other   3 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
