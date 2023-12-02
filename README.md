@@ -24,11 +24,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin           3 hrs 55 mins   ████████████████████▓░░░░   83.09 %
-YAML             28 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.04 %
-Other            11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 %
-Bash             4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
-Shell Script     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
