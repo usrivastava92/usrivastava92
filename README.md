@@ -1,75 +1,51 @@
-<!--![](https://github.com/usrivastava92/usrivastava92/blob/master/banner.png)-->
-<p align="center"> <h1 align="center"> Hi, I am Utkarsh Srivastava <img src="./assets/hi.gif" width="28px" alt="waving hand" /> </h1></p>
+<h1 align="center">Hi, I am Utkarsh Srivastava <img src="./assets/hi.gif" width="28px" alt="waving hand" /></h1>
+
 <p align="center">
-<a href="https://www.linkedin.com/in/usrivastava92"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
-<a href="https://leetcode.com/utkarsh2612/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/> </a>
-<a href="https://www.hackerrank.com/utkarsh_26"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/> </a>
-<a href="mailto:usrivastava92@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
+  Backend-focused Software Engineer with 8+ years of experience building reliable, scalable services across fintech, e-commerce, and enterprise platforms.
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=usrivastava92&label=Profile%20Visits&color=blue&style=plastic%22%20alt=%usrivastava92" /> </p>
+<p align="center">
+<a href="https://www.linkedin.com/in/usrivastava92"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://leetcode.com/utkarsh2612/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a>
+<a href="https://www.hackerrank.com/utkarsh_26"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
+<a href="mailto:usrivastava92@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
+---
 
-***
-**⚙️ &nbsp;GitHub Analytics**
-<table style="width:100%">
+## Professional Snapshot
+- ⚙️ Strong backend engineering background with Java, Kotlin, and Spring ecosystem.
+- ☁️ Hands-on cloud and distributed systems experience on AWS.
+- 🧩 Proven delivery in API design, integration architecture, and platform modernization.
+- 🤝 Collaborates effectively across product, QA, and platform teams to ship production-grade systems.
+
+## Core Skills
+- **Languages:** Java, Kotlin, TypeScript, Python, JavaScript
+- **Frameworks:** Spring Boot, React, Angular
+- **Cloud & DevOps:** AWS, CI/CD, GitHub Actions
+- **Datastores:** Oracle, MySQL, DynamoDB, Redis
+- **Practices:** REST API design, testing, observability, code quality
+
+## Current Focus
+- Building resilient backend services and improving developer productivity.
+- Deepening system design and distributed architecture expertise.
+- Contributing to open-source and developer tooling.
+
+---
+
+## GitHub Analytics
+<table>
   <tr>
-    <td> <img src="https://github-readme-stats.vercel.app/api?username=usrivastava92&show_icons=true&theme=dark&locale=en&hide_border=true" alt="usrivastava92" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usrivastava92&theme=dark&hide_border=true&layout=compact"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=usrivastava92&show_icons=true&theme=dark&locale=en&hide_border=true" alt="GitHub stats" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usrivastava92&theme=dark&hide_border=true&layout=compact" alt="Top languages" /></td>
   </tr>
 </table>
 
-<!-- [![Utkarsh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=usrivastava92&theme=tokyonight)](https://github.com/usrivastava92/github-readme-stats)-->
-<!-- *** -->
-<!--START_SECTION:waka-->
-
-```txt
-Kotlin             4 hrs 32 mins   ████████████▒░░░░░░░░░░░░   48.95 %
-Python             2 hrs 6 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.77 %
-Other              44 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 %
-YAML               27 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.88 %
-TypeScript         27 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.88 %
-```
-
-<!--END_SECTION:waka-->
-***
-
-**🛠 &nbsp;Tech Stack**
-
-- Languages: &nbsp;
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007ACC)
-  ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=Typescript&logoColor=007ACC)
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python&logoColor=007ACC)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=Kotlin)
-
-- Frameworks: &nbsp;
-  ![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=Spring&logoColor=green)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React&logoColor=white)
-  ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=Angular&logoColor=red)
-
-- Cloud: &nbsp;
-  ![AWS](https://img.shields.io/badge/Amazon_AWS-333333?style=flat&logo=amazonaws&logoColor=orange)
-
-- Storage:  &nbsp;
-  ![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=Oracle&logoColor=red)
-  ![MySql](https://img.shields.io/badge/-MySql-333333?style=flat&logo=mysql)
-  ![DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-333333?style=flat&logo=Amazon%20DynamoDB&logoColor=yellow)
-  ![DynamoDB](https://img.shields.io/badge/redis-333333.svg?&style=flat&logo=redis&logoColor=red)
-
-***
-
-
-***
-
-<!-- ![](https://activity-graph.herokuapp.com/graph?username=imkashyap&theme=react-dark&hide_border=true&area=true) -->
+---
 
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories!
+### Thanks for visiting — feel free to explore my repositories and connect!
 
 </div>
 
-# <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/usrivastava92/usrivastava92/blob/master/devcard.svg" width="400" alt="Utkars Srivastava's Dev Card"/></a>
