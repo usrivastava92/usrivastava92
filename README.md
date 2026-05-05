@@ -5,11 +5,14 @@
 </p>
 
 <p align="center">
-  <a href="mailto:usrivastava92@gmail.com">Email</a> •
-  <a href="https://www.linkedin.com/in/usrivastava92">LinkedIn</a> •
-  <a href="https://github.com/usrivastava92">GitHub</a> •
-  <a href="https://leetcode.com/utkarsh2612/">LeetCode</a>
+<a href="https://www.linkedin.com/in/usrivastava92"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/usrivastava92"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://leetcode.com/utkarsh2612/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a>
+<a href="https://www.hackerrank.com/utkarsh_26"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
+<a href="mailto:usrivastava92@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=usrivastava92&label=Profile%20Views&color=0e75b6&style=flat" alt="usrivastava92" /> </p>
 
 ---
 
