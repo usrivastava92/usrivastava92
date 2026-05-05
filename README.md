@@ -37,10 +37,14 @@ I enjoy building high-scale backend services, platform foundations, and develope
 
 ---
 
-## GitHub Analytics
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=usrivastava92&show_icons=true&theme=dark&locale=en&hide_border=true" alt="GitHub stats" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usrivastava92&theme=dark&hide_border=true&layout=compact" alt="Top languages" /></td>
-  </tr>
-</table>
+## WakaTime Stats
+
+<!--START_SECTION:waka-->
+```txt
+Kotlin             4 hrs 32 mins   ████████████▒░░░░░░░░░░░░   48.95 %
+Python             2 hrs 6 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.77 %
+Other              44 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 %
+YAML               27 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.88 %
+TypeScript         27 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.88 %
+```
+<!--END_SECTION:waka-->
