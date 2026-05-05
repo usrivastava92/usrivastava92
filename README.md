@@ -25,10 +25,34 @@ I enjoy building high-scale backend services, platform foundations, and develope
 - Improving developer velocity through reusable platform capabilities.
 
 ## Tech I use often
-- **Languages:** Java, Kotlin, Python, TypeScript, SQL
-- **Backend:** Spring Boot, REST, GraphQL, gRPC, distributed systems patterns
-- **Cloud & Data:** AWS, DynamoDB, PostgreSQL, Redis, Kafka/Kinesis, SQS
-- **Practices:** SLOs, incident hardening, architecture reviews, mentoring
+
+- **Languages:**  
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=007ACC)
+  ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin&logoColor=7F52FF)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=3776AB)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=3178C6)
+  ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql&logoColor=336791)
+
+- **Backend:**  
+  ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-333333?style=flat&logo=springboot&logoColor=6DB33F)
+  ![REST](https://img.shields.io/badge/-REST-333333?style=flat&logo=fastapi&logoColor=white)
+  ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql&logoColor=E10098)
+  ![gRPC](https://img.shields.io/badge/-gRPC-333333?style=flat&logo=googlecloud&logoColor=4285F4)
+
+- **Cloud & Data:**  
+  ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazonaws&logoColor=FF9900)
+  ![DynamoDB](https://img.shields.io/badge/-DynamoDB-333333?style=flat&logo=amazondynamodb&logoColor=4053D6)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql&logoColor=4169E1)
+  ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis&logoColor=DC382D)
+  ![Kafka](https://img.shields.io/badge/-Kafka-333333?style=flat&logo=apachekafka&logoColor=white)
+  ![Kinesis](https://img.shields.io/badge/-Kinesis-333333?style=flat&logo=amazonaws&logoColor=FF9900)
+  ![SQS](https://img.shields.io/badge/-SQS-333333?style=flat&logo=amazonaws&logoColor=FF9900)
+
+- **Practices:**  
+  ![SLOs](https://img.shields.io/badge/-SLOs-333333?style=flat&logo=datadog&logoColor=632CA6)
+  ![Incident Hardening](https://img.shields.io/badge/-Incident%20Hardening-333333?style=flat&logo=sentry&logoColor=white)
+  ![Architecture Reviews](https://img.shields.io/badge/-Architecture%20Reviews-333333?style=flat&logo=diagramsdotnet&logoColor=F08705)
+  ![Mentoring](https://img.shields.io/badge/-Mentoring-333333?style=flat&logo=bookstack&logoColor=white)
 
 ## Selected Highlights
 - Built and scaled tier-0 platform capabilities used by multiple products.
