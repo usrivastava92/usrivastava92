@@ -64,11 +64,13 @@ I enjoy building high-scale backend services, platform foundations, and develope
 ## WakaTime Stats
 
 <!--START_SECTION:waka-->
+
 ```txt
-Kotlin             4 hrs 32 mins   ████████████▒░░░░░░░░░░░░   48.95 %
-Python             2 hrs 6 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.77 %
-Other              44 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 %
-YAML               27 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.88 %
-TypeScript         27 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.88 %
+Java         15 hrs 32 mins        █████████▓░░░░░░░░░░░░░░░   39.25 %
+Other        8 hrs 54 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.50 %
+Markdown     4 hrs 36 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.65 %
+TypeScript   3 hrs 52 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.78 %
+JSON         1 hr 59 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.05 %
 ```
+
 <!--END_SECTION:waka-->
