@@ -66,11 +66,11 @@ I enjoy building high-scale backend services, platform foundations, and develope
 <!--START_SECTION:waka-->
 
 ```txt
-Java           32 hrs 4 mins         █████████████████▒░░░░░░░   69.55 %
-Markdown       3 hrs 59 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.67 %
-JSON           3 hrs 3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.61 %
-Kotlin         1 hr 47 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 %
-TOML           1 hr 34 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 %
+Java          22 hrs 47 mins        ████████████░░░░░░░░░░░░░   48.48 %
+Markdown      7 hrs 47 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.57 %
+JSON          4 hrs 31 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.63 %
+TypeScript    2 hrs 27 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 %
+Kotlin        1 hr 47 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 %
 ```
 
 <!--END_SECTION:waka-->
