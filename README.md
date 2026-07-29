@@ -66,11 +66,11 @@ I enjoy building high-scale backend services, platform foundations, and develope
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown         12 hrs 41 mins        ███████▒░░░░░░░░░░░░░░░░░   29.94 %
-TypeScript       8 hrs 40 mins         █████░░░░░░░░░░░░░░░░░░░░   20.47 %
-JSON             3 hrs 34 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 %
-YAML             2 hrs 43 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.44 %
-Bash             2 hrs 32 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.98 %
+Markdown                   11 hrs 52 mins        ██████▓░░░░░░░░░░░░░░░░░░   26.82 %
+TypeScript                 9 hrs 7 mins          █████░░░░░░░░░░░░░░░░░░░░   20.61 %
+JSON                       4 hrs 44 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.72 %
+Python                     2 hrs 57 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.67 %
+YAML                       2 hrs 52 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.48 %
 ```
 
 <!--END_SECTION:waka-->
