@@ -66,11 +66,7 @@ I enjoy building high-scale backend services, platform foundations, and develope
 <!--START_SECTION:waka-->
 
 ```txt
-Java         39 mins               ████████████░░░░░░░░░░░░░   48.32 %
-Markdown     29 mins               █████████░░░░░░░░░░░░░░░░   35.80 %
-Lua          7 mins                ██▒░░░░░░░░░░░░░░░░░░░░░░   09.32 %
-Other        2 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
-Nix          1 min                 ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
